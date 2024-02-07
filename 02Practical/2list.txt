@@ -1,0 +1,6 @@
+Sakshee	45000	Telengana
+Karuna	679000	Kanyakumari
+Thor	6300000	Assguard
+Loki	3000000	Maharashtra
+Chetan	69000	Gujrat
+Sairaj	567000	Goa
